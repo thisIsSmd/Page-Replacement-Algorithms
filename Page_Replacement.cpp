@@ -1,12 +1,8 @@
 /*
 C++ Code on Page Replacement Algorithms
 
-Team Members:
+Author:	Mohammed Mudasir Shaik
 
-1.	Durga Naga Sai Sireesha Valluri 
-2.	Mohammed Mudasir Shaik
-3.	Mounika Dandiboina 
-4.	Vasavi Maddi
 */
 
 #include<bits/stdc++.h>
